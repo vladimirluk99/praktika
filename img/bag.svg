@@ -1,0 +1,13 @@
+<svg width="36" height="35" viewBox="0 0 36 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.814575" y="6.49158" width="33.5" height="27" rx="5.25" stroke="#4A6FA4" stroke-width="1.5"/>
+<mask id="path-2-inside-1" fill="white">
+<rect width="6.70213" height="4.5" rx="1" transform="matrix(-1 0 0 1 20.9156 18.4916)"/>
+</mask>
+<rect width="6.70213" height="4.5" rx="1" transform="matrix(-1 0 0 1 20.9156 18.4916)" stroke="#4A6FA4" stroke-width="3" mask="url(#path-2-inside-1)"/>
+<line x1="14.2135" y1="21.4916" x2="0.064579" y2="21.4916" stroke="#4A6FA4" stroke-width="1.5"/>
+<line x1="35.0646" y1="21.4916" x2="20.9156" y2="21.4916" stroke="#4A6FA4" stroke-width="1.5"/>
+<ellipse rx="0.744681" ry="0.75" transform="matrix(1 0 0 -1 29.8518 11.7416)" fill="#4A6FA4"/>
+<ellipse rx="0.744681" ry="0.75" transform="matrix(1 0 0 -1 29.8518 13.9916)" fill="#4A6FA4"/>
+<ellipse rx="0.744681" ry="0.75" transform="matrix(1 0 0 -1 29.8518 16.2416)" fill="#4A6FA4"/>
+<path d="M11.6071 6.11658C11.6071 6.11658 12.3518 1.24158 17.1922 1.24158C22.0327 1.24158 22.7774 6.11658 22.7774 6.11658" stroke="#4A6FA4" stroke-width="1.5"/>
+</svg>
